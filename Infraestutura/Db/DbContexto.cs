@@ -1,0 +1,1 @@
+namespace MinimalApi.Infraestrutura.Db;
