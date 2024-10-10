@@ -1,5 +1,3 @@
-using minimal_api.Dominio.Enuns;
-
 namespace MinimalApi.Dominio.ModelViews;
 
 public record AdministradorModeView
